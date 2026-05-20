@@ -8,3 +8,9 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - Não tive dificuldades
+
+Checklist final (autoavaliacao)
+• Consigo explicar para outra pessoa como ativar o GitHub Pages. ✅
+• Consigo alterar um arquivo no GitHub e fazer commit pelo navegador.✅
+• Se eu receber um erro (404 no Pages), sei por onde comecar a investigar (Settings > Pages / branch
+main / root).✅
